@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <targetSelectedWithDropDown>
+      <Target>
+        <type value="BOOT_WITH_SNAPSHOT_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="C:\Users\0addys6n\.android\avd\Nexus_6_API_30.avd" />
+          </Key>
+        </deviceKey>
+        <snapshotKey value="C:\Users\0addys6n\.android\avd\Nexus_6_API_30.avd\snapshots\snap_2022-03-27_22-08-44" />
+      </Target>
+    </targetSelectedWithDropDown>
+    <timeTargetWasSelectedWithDropDown value="2022-03-27T19:09:37.161247Z" />
+  </component>
+</project>
